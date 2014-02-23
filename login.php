@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-NIE-Ace</title>
+<title>NIE-Ace</title>
 </head>
 <body>
 <h2>Welcome to Nie-Ace<h2>
